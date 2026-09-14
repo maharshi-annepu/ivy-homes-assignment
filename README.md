@@ -3,7 +3,6 @@
 **Candidate Scoped Details:**
 - **City:** Bangalore
 - **Assigned Locality:** Whitefield (Question 5)
-- **API Key:** `IVY26-336B8CC469F8`
 - **Demo Users:** `demo1@ivy.homes`, `demo2@ivy.homes`, `demo3@ivy.homes` (Password: `f214f01ed6`)
 
 ---
